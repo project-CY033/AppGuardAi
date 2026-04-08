@@ -1,0 +1,11 @@
+fastapi==0.111.0
+uvicorn==0.30.1
+pydantic==2.7.4
+pydantic-settings==2.3.4
+supabase==2.5.1
+python-dotenv==1.0.1
+slowapi==0.1.9
+psycopg2-binary==2.9.9
+aiosqlite==0.20.0
+androguard==4.1.0
+PyPDF2==3.0.1
